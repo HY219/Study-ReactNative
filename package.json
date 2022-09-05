@@ -1,0 +1,13 @@
+{
+  "name": "Study-ReactNative",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HY219/Study-ReactNative.git",
+  "author": "hye219 <jhy_0219@daum.net>",
+  "license": "MIT",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "global": "^4.4.0",
+    "react-native": "^0.68.0"
+  }
+}
